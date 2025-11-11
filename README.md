@@ -1,4 +1,4 @@
-# 🧩 Manipulace s 2D seznamy – VOŠ AIT2023
+# 🧩 Manipulace s 2D seznamy
 
 Repozitář obsahuje soubory k úkolu **druhé lekce programování** zaměřené na práci s dvourozměrnými strukturami v Pythonu.  
 Cílem bylo vytvořit a otestovat funkce ze souboru `list_2D_manipulator.py`.
